@@ -5,7 +5,6 @@
 # Find the number that occurs twice and the number that is missing and return them in the form of an array.
 from typing import List
 
-
 nums_arr = [1,5,3,2,2,7,6,4,8,9]
 
 def findErrorNums(nums: List[int]) -> List[int]:
