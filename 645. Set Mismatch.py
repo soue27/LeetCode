@@ -8,7 +8,6 @@ from typing import List
 
 nums_arr = [1,5,3,2,2,7,6,4,8,9]
 
-
 def findErrorNums(nums: List[int]) -> List[int]:
     output = []
     seen = set()
